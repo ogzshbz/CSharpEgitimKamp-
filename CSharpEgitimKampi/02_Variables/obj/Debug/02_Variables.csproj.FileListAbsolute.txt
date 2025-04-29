@@ -1,0 +1,7 @@
+D:\bilgiislem\BTK\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe.config
+D:\bilgiislem\BTK\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.exe
+D:\bilgiislem\BTK\CSharpEgitimKampi\02_Variables\bin\Debug\02_Variables.pdb
+D:\bilgiislem\BTK\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.AssemblyReference.cache
+D:\bilgiislem\BTK\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.csproj.CoreCompileInputs.cache
+D:\bilgiislem\BTK\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.exe
+D:\bilgiislem\BTK\CSharpEgitimKampi\02_Variables\obj\Debug\02_Variables.pdb
